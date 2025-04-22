@@ -1,4 +1,5 @@
 ///This file is the code of MC simulations for https://doi.org/10.48550/arXiv.2504.11911
+///You can use it to get results in the paper by switching the value of "lower_payoff_delta" ($e$), "payoff_a" ($a$) and "delta" ($\delta$).
 ///Write by Chen Yi-Duo
 
 ///Most notes are written in Chinese, you can read it with translator. The file encoding format is UTF-8.
