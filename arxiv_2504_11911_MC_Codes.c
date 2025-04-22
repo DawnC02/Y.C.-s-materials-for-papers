@@ -10,6 +10,7 @@
 ///About output files. Time series in the folder named "time_series". "result_pt.txt" is useless for results in the paper.
 ///"result_1.txt" has all results. "result_a" has results averaged over 300 repeats (not used in paper).
 
+///xorshift128 was written by Marsaglia
 
 #include <stdio.h>
 #include <math.h>
